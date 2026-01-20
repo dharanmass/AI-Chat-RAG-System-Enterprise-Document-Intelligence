@@ -1,6 +1,6 @@
 # Chapter 2: Vector Knowledge Base (Pinecone)
 
-Welcome back! In [Chapter 1: AI Chat RAG Workflow](https://github.com/dharanmass/AI-Chat-RAG-System-Enterprise-Document-Intelligence/blob/main/Docs/02_vector_knowledge_base__pinecone__.md), we established the two main phases of our AI system: **Ingestion** (putting knowledge in) and **RAG** (getting answers out).
+Welcome back! In [Chapter 1: AI Chat RAG Workflow](https://github.com/dharanmass/AI-Chat-RAG-System-Enterprise-Document-Intelligence/blob/main/Docs/01-ai-chat-rag-workflow.md), we established the two main phases of our AI system: **Ingestion** (putting knowledge in) and **RAG** (getting answers out).
 
 The component that connects these two phases, serving as the system's long-term memory, is the **Vector Knowledge Base**. We use **Pinecone** as the specific, ultra-fast service for this critical task.
 
