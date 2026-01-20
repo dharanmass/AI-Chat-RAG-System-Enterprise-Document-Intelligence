@@ -33,7 +33,7 @@ flowchart TD
 ## Chapters
 
 1. [AI Chat RAG Workflow
-](01_ai_chat_rag_workflow_.md)
+]((https://github.com/dharanmass/AI-Chat-RAG-System-Enterprise-Document-Intelligence/blob/main/Docs/01-ai-chat-rag-workflow.md)
 2. [Vector Knowledge Base (Pinecone)
 ](02_vector_knowledge_base__pinecone__.md)
 3. [Document Ingestion Pipeline
