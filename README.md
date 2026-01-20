@@ -35,9 +35,9 @@ flowchart TD
 1. [AI Chat RAG Workflow
 ](https://github.com/dharanmass/AI-Chat-RAG-System-Enterprise-Document-Intelligence/blob/main/Docs/01-ai-chat-rag-workflow.md)
 2. [Vector Knowledge Base (Pinecone)
-](02_vector_knowledge_base__pinecone__.md)
+](https://github.com/dharanmass/AI-Chat-RAG-System-Enterprise-Document-Intelligence/blob/main/Docs/02_vector_knowledge_base__pinecone__.md)
 3. [Document Ingestion Pipeline
-](03_document_ingestion_pipeline_.md)
+](Docs/03_document_ingestion_pipeline_.md)
 4. [Embeddings Generator (Google Gemini)
 ](04_embeddings_generator__google_gemini__.md)
 5. [AI Agent Orchestrator
