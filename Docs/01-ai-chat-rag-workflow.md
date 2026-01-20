@@ -130,6 +130,6 @@ The AI Chat RAG Workflow is the foundational blueprint for our entire system. We
 
 Next, we will dive into the most critical storage location for our system's specialized knowledge: the vector database.
 
-[Vector Knowledge Base (Pinecone)](02_vector_knowledge_base__pinecone__.md)
+[Vector Knowledge Base (Pinecone)](Docs/02_vector_knowledge_base__pinecone__.md)
 
 ---
